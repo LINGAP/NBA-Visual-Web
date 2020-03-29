@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce22530-48a6-46d7-bbf4-a21ea5835039" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nba-web" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/CounterSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/DataViewContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/ShotChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/components/TopNavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/nba-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/styles/DataViewContainer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/styles/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/styles/Profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/styles/ShotChart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nba-web/src/styles/TopNavBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/src/nba-logoman-word-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/src/assets/images/nba-logoman-word-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nba-web/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/nba-web/src/styles/App.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nba-web" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlSy3Xh6LXZWKi0N75OjkmqEZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nba-web/src/assets/images" />
+      <recent name="$PROJECT_DIR$/nba-web/src" />
+      <recent name="$PROJECT_DIR$/nba-web/src/tests" />
+      <recent name="$PROJECT_DIR$/nba-web/src/styles" />
+      <recent name="$PROJECT_DIR$/nba-web/src/components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce22530-48a6-46d7-bbf4-a21ea5835039" name="Default Changelist" comment="" />
+      <created>1585412438974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585412438974</updated>
+      <workItem from="1585412440407" duration="2593000" />
+      <workItem from="1585416089287" duration="9695000" />
+    </task>
+    <task id="LOCAL-00001" summary="Set up">
+      <created>1585413038602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585413038602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="130" key="CommitChangelistDialog2" timestamp="1585413038478">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="130" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1585413038478" />
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2" timestamp="1585413345162">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1585413345162" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585413243249">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585413243249" />
+    <state x="620" y="398" key="git4idea.rebase.GitRebaseDialog" timestamp="1585413209605">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="398" key="git4idea.rebase.GitRebaseDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585413209605" />
+  </component>
+</project>
